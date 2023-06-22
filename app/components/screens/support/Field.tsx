@@ -35,7 +35,6 @@ const Field: FC = () => {
         placeholder={'Enter your message'}
         onChangeText={setMessage}
         value={message}
-        autoCapitalize={'none'}
         style={{
           backgroundColor: AppColors.WHITE,
           borderRadius: 12,
