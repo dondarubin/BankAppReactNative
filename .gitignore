@@ -1,5 +1,7 @@
 node_modules/
 .expo/
+.idea
+app/firebase.ts
 dist/
 npm-debug.*
 *.jks
@@ -9,6 +11,7 @@ npm-debug.*
 *.mobileprovision
 *.orig.*
 web-build/
+/app/components/screens/more/currencies/api.ts
 
 # macOS
 .DS_Store
